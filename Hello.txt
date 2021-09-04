@@ -1,0 +1,8 @@
+Hello, This is me Madhab. 
+How are you doing?
+How old are you. 
+Whad do you do ?
+What is the meaning of Genuine. 
+Is it easy to pritn the name in the python terminal
+Why we use the terminal to run the python modules.
+I am loving the Python. 
